@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 - Also in love with anime.
 
 ## 🌐 Connect with Me
-📷
-🌍 Visit my [Website](I currently dont have a website) for a virtual tour of my tech-driven universe.
 
 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/prathamesh-mudgale-a8650b210) and level up our professional networks.
 

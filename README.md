@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 > 🚀 Exploring the depths of technology, one line of code at a time.
 
-![Profile Banner](https://ibb.co/3cSb1gJ)
+![Profile Banner](https://i.ibb.co/gJt8ykn/Screenshot-2023-05-23-at-15-53-26-Demon-Slayer-Inosuke-Hashibira-Eats-Sticker-Sticker-Mania-removebg.png)
 
 ## 💻 What I'm Up To
 

@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 🔭 Currently shaping pixels and crafting code for [chess-gui].
 
-🌱 Learning the art of [QT-C++] to build futuristic applications.
+🌱 Learning the art of [SDL2-C++] to build futuristic applications.
 
 ⚡️ Excited about pushing the boundaries of Artificial Intelligence and diving into the world of Web Development.
 

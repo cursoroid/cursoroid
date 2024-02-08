@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 What I'm Up To
 
-🔭 Currently shaping pixels and crafting code for [chess-gui].
+> 🔭 Currently shaping pixels and crafting code for [chess-gui].
 
-🌱 Learning the art of [SDL2-C++] to build futuristic applications.
+> 🌱 Learning the art of [SDL2-C++] to build futuristic applications.
 
-⚡️ Excited about pushing the boundaries of Artificial Intelligence and diving into the world of Web Development.
+> ⚡️ Excited about pushing the boundaries of Artificial Intelligence and diving into the world of Web Development.
 
 ## 🎯 My Interests
 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Connect with Me
 
-💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/prathamesh-mudgale-a8650b210) and level up our professional networks.
+💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/prathameshmudgale/) and level up our professional networks.
 
 📷 Follow me on [Instagram](https:/instagram.com/prathammudgale?igshid=NGExMml2YTkyZg==) to get to know me.
 

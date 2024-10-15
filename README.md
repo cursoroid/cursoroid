@@ -27,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 📷 Follow me on [Instagram](https:/instagram.com/prathammudgale?igshid=NGExMml2YTkyZg==) to get to know me.
 
-💌 Feel free to shoot me an email at iquid1234@email.com.
+💌 Feel free to shoot me an email at prathameshmudgale@gmail.com.
 
 > "The only way to do great work is to love what you do." - Steve Jobs

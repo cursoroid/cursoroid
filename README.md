@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 What I'm Up To
 
-> 🔭 Currently shaping pixels and crafting code for [chess-gui].
+> 🔭 Currently shaping pixels and crafting code for [SEHO].
 
-> 🌱 Learning the art of [SDL2-C++] to build futuristic applications.
+> 🌱 Learning the art of [Go] to build futuristic applications.
 
 > ⚡️ Excited about pushing the boundaries of Artificial Intelligence and diving into the world of Web Development.
 
